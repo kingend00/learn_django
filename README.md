@@ -1,2 +1,2 @@
-# learn_django 1..2..3..4..5
+# learn_django 1..2..3..4..5..6..7..8
 # test jenkin ci
